@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+    /* min-width: 100vh; */
+}
+
+.cd{
+    margin-left: 25%;
+    margin-top: 10%;
+    padding: 20px;
+
+}
+
+input{
+    width: 100px;
+}
